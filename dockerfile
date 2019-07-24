@@ -1,2 +1,2 @@
 FROM tomcat
-RUN a.java
+RUN touch a.java
